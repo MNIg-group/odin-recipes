@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: palegreen;
+    cursor: none;
+}
+
+a {
+    cursor: pointer;
+}
+a:hover{
+    color: olivedrab;
+}
+
+#body{
+    background-color: seagreen;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+ul {
+    list-style: none;
+    cursor: default;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    margin-bottom: 1rem;
+    width: fit-content;
+}
+
+h1 {
+    color: springgreen;
+    cursor: default;
+    font-weight: bold;
+}
+
+.container {
+    text-align: center;
+    cursor: default;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background-color: limegreen;
+    padding: 2rem;
+    border-radius: 10px;
+    width: 25rem;
+    height: 15rem;
+    margin: 30vh auto;
+}

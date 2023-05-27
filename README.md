@@ -1,3 +1,3 @@
 # odin-recipes
 project from Odin projects
-[Live](https://mugabeignace.github.io/odin-recipes/)
+[Live](https://mnig-group.github.io/odin-recipes/)
